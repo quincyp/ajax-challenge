@@ -11,3 +11,64 @@ body {
     margin-right: 10px;
 }
 
+/*
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.error-message {
+    color: #F00;
+}
+
+form input[name='occupationOther'] {
+    display: none;
+}
+*/
+#
+rating {
+    display: inline - block;
+    padding - right: 3e m;
+}
+.jumbotron {
+    padding - top: 0;
+    padding - bottom: 0;
+}#
+comment {
+    font - size: 14 px;
+}#
+ratingVotes {
+    display: inline - block;
+}#
+priority {
+    padding - left: 4e m;
+}#
+check {
+    display: inline - block;
+    font - size: 12 px;
+}#
+title {
+    padding - top: 1e m;
+}#
+comment {
+    padding - top: 2e m;
+    font - size: 2.5e m;
+}#
+commentBody {
+    font - size: 12 px;
+}#
+name {
+    font - style: italic;
+    font - size: 10 px;
+}
+.required - field: after {
+        content: ' *';
+        color: #FF0000;
+    }
+    .invalid - field {
+        border: 1 px solid# FF0000;
+    }
+.invalid-field {
+	border: 1px solid #FF0000;
+}
